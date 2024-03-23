@@ -1,6 +1,8 @@
 # Jonas Wombacher - Interaction in Virtual and Augmented Reality 2023/24
 This repository contains the Unity project I built for a university course called "Interaction in Virtual and Augmented Reality". The resulting app was developed for the Meta Quest 2/3. If you want to know more about this project, you can check out the [documentation on my homepage](https://www.jonaswombacher.de/ivar).
 
+https://github.com/jjoonnaasss/ivar-archery/assets/33218099/41ae0866-58b5-45d7-b329-e6aeb8204d8c
+
 ## Assets used in the project
 This project is based on the [template project we were provided in the lecture](https://github.com/wenjietseng/VR-locomotion-parkour). In addition to the ones included in that project, I used the following assets for my implementation:
 - [Models for the bows and arrows](https://assetstore.unity.com/packages/3d/props/weapons/free-cartoon-weapon-pack-mobile-vr-23956)
